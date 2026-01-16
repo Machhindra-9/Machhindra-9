@@ -83,11 +83,6 @@ I am a **devops enthusiast** and Development professional from India with practi
 ---
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=machhindra-9&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=machhindra-9)
-
-
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Machhindra-9&theme=react-dark)
 
 ## 🌐 Connect With Me
